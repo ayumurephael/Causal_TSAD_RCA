@@ -1,0 +1,71 @@
+{
+  "method": "causal_temporal_statistics",
+  "arm": "stat_temporal",
+  "basis_checkpoint": "checkpoints/normal_basis_s348.pth",
+  "basis_SHA256": "d809200a339c917ddc7af20d06fc4de834fdf0f03b1e749df8e53e80acc15842",
+  "seeds": [
+    {
+      "seed": 348,
+      "checkpoint": "checkpoints/stat_temporal_s348.pth",
+      "checkpoint_SHA256": "b13fcbcc4e7f1d97bcc97cbb31eee67accdcf88ac6994e0a86050be26e11953b",
+      "threshold": 1.1865460168934547,
+      "updates": 384,
+      "observed_exposure": 11010048,
+      "normal_target_exposure": 5505024,
+      "trainable_parameters": 1794,
+      "schedule_SHA256": "59c86b1dd9bb7500aa1d3a2c5e67286b9484e08ca77516d66e7ed9692b915d7c",
+      "final_parameter_SHA256": "eae6a47c2b676869a1a8e059bbe8fa42e4ff6d17abddadeb218b86452a74b764"
+    },
+    {
+      "seed": 349,
+      "checkpoint": "checkpoints/stat_temporal_s349.pth",
+      "checkpoint_SHA256": "9b3309e7bdfe478f46d9f42bd51bc1c0a3b423bd8fc15d3d3b093044475db369",
+      "threshold": 1.876064147060714,
+      "updates": 384,
+      "observed_exposure": 11010048,
+      "normal_target_exposure": 5505024,
+      "trainable_parameters": 1794,
+      "schedule_SHA256": "e7f2b039a59144af20b27eba2010bef0a7f8a9bdde2632d34bbf0ca9dcef6995",
+      "final_parameter_SHA256": "eef36c7357640f2b198e87a8480a5a85b2028c1d8a8443cd26b2907fcba1fb04"
+    },
+    {
+      "seed": 350,
+      "checkpoint": "checkpoints/stat_temporal_s350.pth",
+      "checkpoint_SHA256": "c71de883ee02408c92569e5c39ebdca68a9091e402f330d7f234d87f73371c55",
+      "threshold": 1.5746539103629684,
+      "updates": 384,
+      "observed_exposure": 11010048,
+      "normal_target_exposure": 5505024,
+      "trainable_parameters": 1794,
+      "schedule_SHA256": "8a253d3d80b93cd2fa25ac22d8f22827d04d0575a4fb25d0e4625b684c14927f",
+      "final_parameter_SHA256": "5a82d7f3a164d4bb06e64b462327c9825b49edee37aed0bc63330cdb0ad2714f"
+    }
+  ],
+  "first": 32,
+  "source_length": 1024,
+  "nuisance": "none",
+  "context_folds": 8,
+  "gap": 32,
+  "windows": [
+    1,
+    8,
+    32,
+    128
+  ],
+  "source_systems": {
+    "train": 64,
+    "calibration": 16,
+    "confirmation": 32
+  },
+  "optimizer": {
+    "name": "Adam",
+    "lr": 0.001,
+    "steps": 384,
+    "gradient_clip_norm": 1
+  },
+  "target_parameter_updates": 0,
+  "TimeRCD_dependency": false,
+  "locked_opened": false,
+  "score_averaging": "metrics averaged within system over3 independently trained seeds; NOT prediction ensembling",
+  "source_manifest_SHA256": "04fbaade3c93c9b02ba884ccb10e87c90b876713c0b49eddf37d1991cc9f171f"
+}

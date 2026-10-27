@@ -1,0 +1,2333 @@
+{
+  "status": "complete",
+  "systems": 80,
+  "files": [
+    {
+      "path": "348000080000.npz",
+      "SHA256": "1442072aec41e26f88da2233ce54b694ff15d5ced04501d48b7057e667c139bf",
+      "key": "348000080000",
+      "split": "train",
+      "C": 8,
+      "family": "linear",
+      "root": 7,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "00f2870d7356f3ae0ab490f545b7e0df7cd89c97598d20166684bb43fdbbafe9",
+      "graph_SHA256": "a2554714c93874a4df206bb9d1e1e445baeb3c5b14ea6d1a7354069d558972a3",
+      "prefix_SHA256": "cfab761cbc416c8e590a37675a27c9c7299bf45a4282fd349fc61350eea835fd",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000080001.npz",
+      "SHA256": "cda324c8bb2fd25a60414cc7264bb54661abcbe29c3428b265df4e61163de9cb",
+      "key": "348000080001",
+      "split": "train",
+      "C": 8,
+      "family": "tanh",
+      "root": 5,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "e75d42781d3dcf4fcdf63ade204ce870892116b9105ba7f5c8839f732eac2554",
+      "graph_SHA256": "e7d5356d128638c543666e254890fd0c4763c7b6be61457296fae01d19185d49",
+      "prefix_SHA256": "35df0af6956eea6c6d4563041b70c64be8b7bd6b0827df43e4f52cd9105cdb30",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000080002.npz",
+      "SHA256": "04f1ce5198f2e4778277084a3d54e2305b2f869c7960ca8c8c8734b98e9a9d5d",
+      "key": "348000080002",
+      "split": "train",
+      "C": 8,
+      "family": "linear",
+      "root": 5,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "db01f92e28ed4098322cb2b0b8f2329ff7412c9e8caedd9656ba1b01e53ec219",
+      "graph_SHA256": "dc71d1d7dbfbf3c4dc9da3a5b1c362950febd0f5a60eecc96da4dff2b2d9a9c5",
+      "prefix_SHA256": "6f882002e7cc43fb091fff8bdd3b80d9f69a6bcf9948dd607c8f73bdadd39dc5",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000080003.npz",
+      "SHA256": "820afc91e8a73f99bda53ffa9f01dd0a910d2a6b83fd977cbde3cbe72028d211",
+      "key": "348000080003",
+      "split": "train",
+      "C": 8,
+      "family": "tanh",
+      "root": 0,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "6650a7f780134f9c82237bd53e82954250fb3e2cfa067cc1e36b51bdef7b6aa5",
+      "graph_SHA256": "1fa4f3a5adb93ed403d32525ab563e0cc229b24fd838c5250b2d4451dde876ec",
+      "prefix_SHA256": "847f279d7879dedaa58380e10de35ad875f7496fed47f211b47b4cc8e56d5aaf",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000080004.npz",
+      "SHA256": "06423b0756320c59e3b5707d571022ec5e249950297b03d48fa8284e5d6867e9",
+      "key": "348000080004",
+      "split": "train",
+      "C": 8,
+      "family": "linear",
+      "root": 7,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "2d5aec85ff04e48cd48baef0c2d95dbc52e50791fe256f9d687d31ff0bc0830b",
+      "graph_SHA256": "e368b5ac7369011e7c3141eb5721c999ab342912f13c48f1d40d2d01e7a4c62d",
+      "prefix_SHA256": "2e3c14382377bc6da5d60f1a4e50c51e4237901efbb54ed89c250a22dcd0e15c",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000080005.npz",
+      "SHA256": "b4e0083fbeae36403f2c9d6e45e0065c6ec62699618e0e317f69f472cc3147b6",
+      "key": "348000080005",
+      "split": "train",
+      "C": 8,
+      "family": "tanh",
+      "root": 0,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "926d95ce5a50a0d5c23732f94092af96f71d7dc3302ec6676dc1fdff19e7976e",
+      "graph_SHA256": "5eb4999592dd38399c1eb733d14c37b938c1543c22218c3d62fcc5af536f1e43",
+      "prefix_SHA256": "6476f5c2658fccc356f90e03f3cf86ca079c6671213f0593b1252ba12f908323",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000080006.npz",
+      "SHA256": "129a5668d60a52a9dd8ce7fb46f623bc210d3bda375ed5104681b23b5416872e",
+      "key": "348000080006",
+      "split": "train",
+      "C": 8,
+      "family": "linear",
+      "root": 2,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "7acfc220711336750db6cd41aab996f1105acc4fdaa684ae3545ae1e7667a6fb",
+      "graph_SHA256": "64ca852ed001c7f5f4d9d197bfdf2b42adaac06f55612f494a320f287a3f2da3",
+      "prefix_SHA256": "0730053f03fe829a47fe94b56c303b75478be50e089b07e50d9d6aeffda3ce37",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000080007.npz",
+      "SHA256": "489c532743b5e5b4e2d7f135a2d7879c8c9e66dce32b040a2ee330d733b4067c",
+      "key": "348000080007",
+      "split": "train",
+      "C": 8,
+      "family": "tanh",
+      "root": 1,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "875df20c2469e36cad2ac6a57c4fe1eea8ee229f6f585c1ad41285b44a0edf5f",
+      "graph_SHA256": "a7f562d0af58662ca224c6bc80bbd4d3f22f740615bb4774b80f9731f804855c",
+      "prefix_SHA256": "7fb9ca0ae18ccddb2f1f9768ec7ee6e7199d64854febf3d2785c66c065fd0c0e",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000120000.npz",
+      "SHA256": "69ccdf18a94e893115f3f90d21fa90f3696b34f3956f9c1b46bb62c21ac89fdb",
+      "key": "348000120000",
+      "split": "train",
+      "C": 12,
+      "family": "linear",
+      "root": 11,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "1508a0b1fd7da2ab0ef7d98da2b4c7aa86cad502576b6ff3e4577c91a3b55dbb",
+      "graph_SHA256": "b8cbbfd1ee10c760f00bf3436c6e308654d1bd49485412b26db620197c1f81db",
+      "prefix_SHA256": "c5d95868c3fe146ebdc23cb041740041f2e7521a0ca1719297afb803d49b4827",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000120001.npz",
+      "SHA256": "eb4f22bbd8404e1e55128580283e9de9e2b84cf9c929b91fe727f926f449348f",
+      "key": "348000120001",
+      "split": "train",
+      "C": 12,
+      "family": "tanh",
+      "root": 2,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "e851a8f6c98c9dcb5c233621b5d4fbcb4fb9b33b4ecad50033c6d1d3bb47ed6d",
+      "graph_SHA256": "d7b8b857b230b55efd988ee7f3f64ff11e620e20e1534dc7e86afa764cbffe75",
+      "prefix_SHA256": "564152957c3b63ab4d5f325e9adc839df268e1c4e05e65e705b9a0a39ac22c27",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000120002.npz",
+      "SHA256": "3ce54c01813e108e0f2584d5216cf4a99a926f91e1297dae94963af962bce82a",
+      "key": "348000120002",
+      "split": "train",
+      "C": 12,
+      "family": "linear",
+      "root": 3,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "d07759afc8c16c75c9311a683164f10048099a70cae637be2f7dd45c56306b99",
+      "graph_SHA256": "703d5f1a24f3dc31845db3a6726af108588c982e717de30cc294bb94e5ae9bec",
+      "prefix_SHA256": "8c6ec244f058afaa2060747fb50ddcc47aa8ee963f7ac1f7e52b8d9929422fb4",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000120003.npz",
+      "SHA256": "f5a418fef4f789c83e47778a46bdc4bb3d590b730017e5743e23e19afd258c54",
+      "key": "348000120003",
+      "split": "train",
+      "C": 12,
+      "family": "tanh",
+      "root": 7,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "71afcc4ae7232e0f444cfcf8459119c0d0624c2b6f0e9e2672c21ac1ef5e59ad",
+      "graph_SHA256": "abea3fd11ec5df458c3f576d528d263ee2e3dced6550a30438e2e7958b562ba0",
+      "prefix_SHA256": "f73a7a6fb1acd81f2043abe4f7d1480cd0cfa3b5cc76432c54b2c8e293b6eeed",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000120004.npz",
+      "SHA256": "391ed6bde73c284675e039b3bb7446add589663e7f36254daf9c05a1eae809eb",
+      "key": "348000120004",
+      "split": "train",
+      "C": 12,
+      "family": "linear",
+      "root": 7,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "f3fff8e2508b59e318b6fab219b2c90736401d7909c5f42cc10d796d1fad38ee",
+      "graph_SHA256": "c2daf76dbb8c12e8a049b7e6537131dcb29f22b72c605f78da062bbe84d40cdf",
+      "prefix_SHA256": "2e2ae39679ff716461079d1571e7deab4d2fafc0138dd2a83c2fccf897c25cfc",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000120005.npz",
+      "SHA256": "c1aed3e556cb4f4847cdb1807d5808a1f5a40fd1df1eddd99ade70359a24cd71",
+      "key": "348000120005",
+      "split": "train",
+      "C": 12,
+      "family": "tanh",
+      "root": 5,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "820dc8574b4c7e4fe39dedd4354e028cf13fcd60964030f05d50433c5f4ad811",
+      "graph_SHA256": "2ad44115186dc85f5331cb55182d3380942fd495cb3fcaa50e8ce630d81fca6b",
+      "prefix_SHA256": "68e665e0c2c9241df56af5fc7bddf43e46035da4e6270a16ddcb731c9f9b2e27",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000120006.npz",
+      "SHA256": "1b039c0ce073a0dccb6d7f4129fdf5d44250afe3bacfc0591dcb71414577bad0",
+      "key": "348000120006",
+      "split": "train",
+      "C": 12,
+      "family": "linear",
+      "root": 0,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "ccfc1336c936158f08f1680473086f11726210ff2dafcde0861cae67df8f3d25",
+      "graph_SHA256": "2728e44679fdc805e3c1f1738edb02b4f79edd88b21d4d519da174b6b14d4c12",
+      "prefix_SHA256": "c2bbb9cb2ad1f65c0e45d36cbbadde472913d23590ff65e9a217e8315ddbcdd3",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000120007.npz",
+      "SHA256": "384cd8d3300ae36d9e664e696f5f32de4b4d7bd003546557bf77a842c8376529",
+      "key": "348000120007",
+      "split": "train",
+      "C": 12,
+      "family": "tanh",
+      "root": 0,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "f84564e7d4ac2afce2c1bed1b69dbd82701973545447655658d44f1eb11bce55",
+      "graph_SHA256": "72d3a5b7f9ab71e037e03052bc03943acf14de936b242325f9b8b2be4cf675ff",
+      "prefix_SHA256": "ea90b0dbb32fae3720b011622646a80c7ee88af4dcf0a0f80366684e1eeafde4",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000160000.npz",
+      "SHA256": "688a40c69f3c14e65374cd33c88119cb601fa626a5dd947caad3dc66017cf90d",
+      "key": "348000160000",
+      "split": "train",
+      "C": 16,
+      "family": "linear",
+      "root": 14,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "446ebdb3b6a9171b396a0c15da4580b4d148d3466f495bd5524fdbaec16a81fe",
+      "graph_SHA256": "35e822a3234970dd9a727122f587f5bd2a12cd378b17ce0abaa4f53bd1da1e49",
+      "prefix_SHA256": "18e498d106b263ad82859db0e29b87dee7b8f1b637fe85210558aced2158ea11",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000160001.npz",
+      "SHA256": "8e0287c0989d006acbbdd13cd44ae5ad0f5875d009e4703df30d9fa52cc74eec",
+      "key": "348000160001",
+      "split": "train",
+      "C": 16,
+      "family": "tanh",
+      "root": 6,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "e2681d92c4c5a83f4dbdff58315edb002de751307565c119006d53d49725cef2",
+      "graph_SHA256": "65662470497086ea9bd7139d919a7dba45d66f9805184878b532f15c9238d074",
+      "prefix_SHA256": "2bf8c31efe891ba8c6b188b8b67ac4056977e18d5e17aa8d5032cc1f61996140",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000160002.npz",
+      "SHA256": "ec923c194233042d18265cc601b6ad9fb3bfc23ac00d051762726c5456ad7cfc",
+      "key": "348000160002",
+      "split": "train",
+      "C": 16,
+      "family": "linear",
+      "root": 0,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "c24d28eafece4f837427b357028795ab19de4b68b1f88c918639b25ff56e54e3",
+      "graph_SHA256": "f131d70f39cba7fabfd763c51aed7bd3d5a9f19758ff75bb6f8c94eb381674d6",
+      "prefix_SHA256": "fcd50c167bf5a4d4339218e71b217ac5a2258d78aa0941961176232c289bbe11",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000160003.npz",
+      "SHA256": "2114c9bfe4f320d43e3dc4d8bce2fe82559327d860d129bd864491dcc6de6b9a",
+      "key": "348000160003",
+      "split": "train",
+      "C": 16,
+      "family": "tanh",
+      "root": 0,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "639a37c772bf5c109d02ed58261c6d3c4891c985f5f0145bd99c9e70e4da6e84",
+      "graph_SHA256": "c8e632758165a836fb2e099980a19cafa48f99ebc46e122b248ce09d76d875bf",
+      "prefix_SHA256": "c1895aa59746f28ac1b47148f68dcd52fad8d936b41f16fd81e6798c6e36fa1e",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000160004.npz",
+      "SHA256": "18cf1a9905e2402d11455facae09fdc50d20a94c42448238abe06276a2134a41",
+      "key": "348000160004",
+      "split": "train",
+      "C": 16,
+      "family": "linear",
+      "root": 0,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "f2534bf2665982571761a3e61b147f9b82c5a2635715f00671ce54dfaeba8080",
+      "graph_SHA256": "31c2bcb8c0cd658a55096eef8939735aafe846852fcfbac2eb946f54cf4e2f70",
+      "prefix_SHA256": "deb47dfcc2cb348d75bdd8a0fad62d22397abddc39634fabb3ec0698af030d15",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000160005.npz",
+      "SHA256": "eef525833ab53e5818bee09ca72b757e34cbcee66ea2c406c17b4d28c5cfd7af",
+      "key": "348000160005",
+      "split": "train",
+      "C": 16,
+      "family": "tanh",
+      "root": 8,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "8cd2831648f5c3f164f502de2bd38fa1519b5a6bd98c6d8dfa7e767011b6785a",
+      "graph_SHA256": "30842e2c57898858e43540bb9b2711944626d45f4242aa5f5f0fd82e6dfa7e64",
+      "prefix_SHA256": "ac6cb8c3b6f4d1c8ddb3509e452db51c368e8821009c7a4436593f7278346387",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000160006.npz",
+      "SHA256": "53669042246e5fd78b94da2f1a2e68fccfb348c4f2fe45cdc28f9bca3969268f",
+      "key": "348000160006",
+      "split": "train",
+      "C": 16,
+      "family": "linear",
+      "root": 4,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "5ec8f7ae1836ce07b39b21362a9e7720a29bed66171482325646ae4155dba55d",
+      "graph_SHA256": "9dd50340bfa96f3d5061f1ee12d913b2e69fc5eb7ab980766b2298b670ca317a",
+      "prefix_SHA256": "11d0087e250a0962f761bc4aaa226b77ec83971c4b10c738bce5edf0d01b86c2",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000160007.npz",
+      "SHA256": "56c4ab3fd4b7f1d233a9828a339ebbd23c8ca762bbede51e204180a1f8c2474c",
+      "key": "348000160007",
+      "split": "train",
+      "C": 16,
+      "family": "tanh",
+      "root": 11,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "0a1fa73a8f3d7898e9e288410be6d4a23d4ea890c1dc799dd65374e3b72971cd",
+      "graph_SHA256": "7ed9beacfe9b081109c51fd23712bd930d4547db02aa9d00893135a0dada32d6",
+      "prefix_SHA256": "5a3de825cdebbcf242a522b614384607e636648764b527ed1e8942a0988ea126",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000200000.npz",
+      "SHA256": "ef275f7bbdfb5d5125e39a7d95eb384bfa250f6867dbe60f36907ff9ef720e9a",
+      "key": "348000200000",
+      "split": "train",
+      "C": 20,
+      "family": "linear",
+      "root": 9,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "6b2fd9725a531bbff961c21832b089be3c574292266064dfa74bbf63e1985816",
+      "graph_SHA256": "1931dc7b3abab5f9f57fa2c00af7c70599102078455b93ef7ea1392eaac30057",
+      "prefix_SHA256": "42985e59e4103067c4d0ca966c3123c3ce43dcf119b6528ef32614d3716e5fe8",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000200001.npz",
+      "SHA256": "176a37a9d5ec05af8e0e1d60d86526919193a803f6158c6fddf0cb6dc1bc3902",
+      "key": "348000200001",
+      "split": "train",
+      "C": 20,
+      "family": "tanh",
+      "root": 15,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "e48b381e20aa1b91abd5880241651d40b144ed7d441dec9844c4b29976993b3b",
+      "graph_SHA256": "ae4c360b32e356d83a9d6376756e6a33e8ef39e9eeaf244ab0ad0e5f8d640f7c",
+      "prefix_SHA256": "e61400599cfac990688c5201683a09a0e8e6db4e4eaec2fba0f2ff202800bd32",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000200002.npz",
+      "SHA256": "7160b29f988abec4ac9fcce976cfc3a860ffe52fcea3be1944512b97c8abbf7e",
+      "key": "348000200002",
+      "split": "train",
+      "C": 20,
+      "family": "linear",
+      "root": 12,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "0cb8a0b149374bf676d073cdff85e5e9e415b69c189031e4fb87550830276d96",
+      "graph_SHA256": "c02fbae1bafc4c3784d5c4df681d18ef32abed95971af2bce1d5eb5d473244c3",
+      "prefix_SHA256": "f21fdd3322f215dcbd0d786a8bc497836c5da265060fb85c61db91b149160287",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000200003.npz",
+      "SHA256": "35562b9c99faf87a20621f7220614f8c1e7a16ad67ef9566e0b41e3e3eff0855",
+      "key": "348000200003",
+      "split": "train",
+      "C": 20,
+      "family": "tanh",
+      "root": 8,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "7bb2b645c063b4cfde24555eb957352df1408ed153323c7e1c23d93b5382c173",
+      "graph_SHA256": "47d7cfbfb66c718786e4fd62b8dbe99ff521d9d079073c98ce5b3a74c27917e7",
+      "prefix_SHA256": "eb82e49e789543fcb5c92009905d68191772fd92ed71a84a13346d48ef53e746",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000200004.npz",
+      "SHA256": "df2eed3251af46d62d5c3beca0d16a82d4a9523229db6be7bcc888b541ef8a66",
+      "key": "348000200004",
+      "split": "train",
+      "C": 20,
+      "family": "linear",
+      "root": 13,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "a9f52857b0aec22ee6db5989ee28220751b0ab1e0b120d34b29a4ee377b26568",
+      "graph_SHA256": "c76dbfa33af9414849a937726a3a3eb821762625763cb06a05476ff82742763f",
+      "prefix_SHA256": "8c62e15f07464a652b6f150b2096ca50649e4c038c4fc7a9422accf1dc18bcdf",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000200005.npz",
+      "SHA256": "0dc49c426ab1cfa863344d4cbc591639d81da77e26d9a83c73679e5f67229fd5",
+      "key": "348000200005",
+      "split": "train",
+      "C": 20,
+      "family": "tanh",
+      "root": 10,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "d541b75430441f5ac2ded74b07d563cc531c2cdbcb1b29377135d6be9f5dc79f",
+      "graph_SHA256": "1bf04f46e72e442ee401c27390f4ae3e6a8ff980dccacfd880d89f76f9c40f07",
+      "prefix_SHA256": "59afb67ca6ae9c782253639ae980272d13cc338c597fff90cb02865d7e7aba33",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000200006.npz",
+      "SHA256": "d826c181b98059c53fd12933324e8d4b10cdb09bc49010c896013e5f6078d91b",
+      "key": "348000200006",
+      "split": "train",
+      "C": 20,
+      "family": "linear",
+      "root": 8,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "7019fd76e4764905246a484e650166f29edddc0fdb2b8064562adf17cae50592",
+      "graph_SHA256": "ed50a7a011c556002d24bd63d1ce8d8d6ed0e9c20ce742813abc26461d10bc3b",
+      "prefix_SHA256": "ed9e54260fffe0cb328c177559f61059a178dc583a19d9f115ba1441f4ca61f7",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348000200007.npz",
+      "SHA256": "8c909f2d129835e9269af5e5b3566005d840cb1fd57c8c676236d6b48f25f2c8",
+      "key": "348000200007",
+      "split": "train",
+      "C": 20,
+      "family": "tanh",
+      "root": 1,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "0e932383ac573e1a489eeaeccade57c3b8916d6165451c4743f7fa8e4eea79e6",
+      "graph_SHA256": "4b9d5370a3b90301229b90f0aef1497e8c7ecc5668551b81ccb4e254c5af6472",
+      "prefix_SHA256": "27f65db3086003ed0b884b4de8dc1a22169ed44bb8d1d888bce1803cc200b2f5",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348001080000.npz",
+      "SHA256": "2180dc00abdc7760db40719974c75d76074fb280cfe1f0027f27b9ffe201cf06",
+      "key": "348001080000",
+      "split": "calibration",
+      "C": 8,
+      "family": "linear",
+      "root": 6,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 2,
+      "input_cases_SHA256": "235163828e49baa5682805adde523d7c2a820a63702b48270593f3d2bbe30b0d",
+      "graph_SHA256": "bdc4bca5a7f80823731631d3e967484b8dbc71cc06a4fc379a6a09cb4bcc3253",
+      "prefix_SHA256": "0d95c31a1de3d45d5f739f33190346b3d5ca8141fa5801cf775e3f8b67353eb3",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348001080001.npz",
+      "SHA256": "faa04edd2474720b990dda1954f38a5eb02b3ca15d08c0ba1ef4e46b40200b81",
+      "key": "348001080001",
+      "split": "calibration",
+      "C": 8,
+      "family": "tanh",
+      "root": 7,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 2,
+      "input_cases_SHA256": "81c3bdc79c785a5d34855555dd38ae9c67d3547ddef52177bfaf29bd614c0223",
+      "graph_SHA256": "3e01f612f1b97fc5796f458b0e334fb3603fb26efb837dd0d04880b15e6b4d8b",
+      "prefix_SHA256": "4a3c84d32c25375a24a6cc30e7a9d454dd9fff1b7683659c1305ec85c22e1991",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348001080002.npz",
+      "SHA256": "ad1b69ef06360e0c389ca037c5428f59048c3b4802bccb18a3feb6f80f68de16",
+      "key": "348001080002",
+      "split": "calibration",
+      "C": 8,
+      "family": "linear",
+      "root": 4,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 2,
+      "input_cases_SHA256": "14f73be90593cbc08e5f259be755e2103413d8628c2dfad760382e5457563cf5",
+      "graph_SHA256": "0ba0a5a4f2345b9275be442741f45f8dda211f35394b9d96357ca2e8fb5b8c68",
+      "prefix_SHA256": "c3dedcdaa7b12ea170851db4722e352e8d8ef757f6fa28cef4765f030f1af721",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348001080003.npz",
+      "SHA256": "248b2d61653346c33a3c257b03ea0d3656d49a98cdbe885ef2246bb9e0f51d3b",
+      "key": "348001080003",
+      "split": "calibration",
+      "C": 8,
+      "family": "tanh",
+      "root": 4,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 2,
+      "input_cases_SHA256": "8031533cb7c9475c8bd2f8d50247aa1bcc80d870a3215bbdc35cd7df298710d6",
+      "graph_SHA256": "85c9965381cb16afd8f01d4fe6bc48c8da317c343641f63033d3aee4fb69e219",
+      "prefix_SHA256": "067a0ad3b69ff17dade616705b5d4a071ac66c5f99c17bf7796ac2061c3c0fd1",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348001120000.npz",
+      "SHA256": "bc43899038e9d79ec7783579ecaac3a7e53fccab8ce1dfc6fa3997238dee3967",
+      "key": "348001120000",
+      "split": "calibration",
+      "C": 12,
+      "family": "linear",
+      "root": 10,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 2,
+      "input_cases_SHA256": "2a5bdd41cb2ca812d7b2d12c28c198b9a5d0306faa77bab2dfca87636e6b4f0c",
+      "graph_SHA256": "06c14aa74bc2423126c4eaa0f778edf8b533f194aa09fcbb41d90315039f2039",
+      "prefix_SHA256": "e661271d63895632108e3f001fada6240fbb981b3e11ff5e5a91c0fef3500925",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348001120001.npz",
+      "SHA256": "f10d25756f69a2e338198c341d273facab2fc9d28ff887ec8701acdd3e34d254",
+      "key": "348001120001",
+      "split": "calibration",
+      "C": 12,
+      "family": "tanh",
+      "root": 8,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 2,
+      "input_cases_SHA256": "f23156291911e5837cd318e408b3c1967e94891ef439b44282ab52e7cac51572",
+      "graph_SHA256": "d96567af8673d62f4b8e209c447bb0913a47e55733799587fbb2b6ae49ff3ab5",
+      "prefix_SHA256": "0c209ec4b49bb7768990768dcad345fef718361bfe2159b2c38651380479d1e1",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348001120002.npz",
+      "SHA256": "2ed7e2b02234a69987186cd9f28364286fbb6f4a3ab0995a1169534c4eafbb26",
+      "key": "348001120002",
+      "split": "calibration",
+      "C": 12,
+      "family": "linear",
+      "root": 11,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 2,
+      "input_cases_SHA256": "cac480405d2b149686eb0c574e54e6a6e2ad9359b3d0df10152eb774e1d743d8",
+      "graph_SHA256": "f4dd731ef4f01d20ed07466d119699563b355cbcfde774c5442b0dbc3a430e02",
+      "prefix_SHA256": "4164b0b2f4fd32aa8ceba1d160d7a5d0e2a8352c07314a8710171b56855f6d30",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348001120003.npz",
+      "SHA256": "b29e26af5ee87c77f6a58e4afc86da86f92084a757ddd47c2ea9e158406cbbc9",
+      "key": "348001120003",
+      "split": "calibration",
+      "C": 12,
+      "family": "tanh",
+      "root": 11,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 2,
+      "input_cases_SHA256": "f91fbed47f739232db41bf4d9c7d7e272d4e642270dcb2d478039f51f95fad18",
+      "graph_SHA256": "dbb29111272de246a9490bde8ccc186823497a0201200a13a2e37f8f3487482e",
+      "prefix_SHA256": "702cb6c648c75abbeff9f5aefa24ace294e652373c810222ebfd0ae2c746ff86",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348001160000.npz",
+      "SHA256": "2d2924e4b72b72fe6a36e7ecd1474afd019ecf0142010a6feb5d51c00da66562",
+      "key": "348001160000",
+      "split": "calibration",
+      "C": 16,
+      "family": "linear",
+      "root": 2,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 2,
+      "input_cases_SHA256": "a336d2eb9d41efa5895fdd27ba1f936fa5661fe5a4e3ffe1000612d456d247e2",
+      "graph_SHA256": "bd904b647199b58930fc568686af7a8b7703c1ef705d903fb6c8eb174d907d9e",
+      "prefix_SHA256": "10bc857ce7215d56ca0e81de9a02ab527fe0f47ca181a4f63672f137db826554",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348001160001.npz",
+      "SHA256": "e66872b4c676af453a388451d83349db38bd49879dba1982a7e8a7cd07a0c216",
+      "key": "348001160001",
+      "split": "calibration",
+      "C": 16,
+      "family": "tanh",
+      "root": 4,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 2,
+      "input_cases_SHA256": "28884ed8ae94025ef4cc950989d89ae5e082be6179661b35685ee5e4aa1401d0",
+      "graph_SHA256": "29c251676e98b1b1c72f1dc87ad1825dda72e3c417aaa8155476e4e53363dbeb",
+      "prefix_SHA256": "695f77d8f6b9ba1c2f01d3924f7f02d9dc3bcb6893adaa0f514db7451835b946",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348001160002.npz",
+      "SHA256": "a8f1c573be6bbb708487154c1996798a605fc019332486071ba3570c7e4ed8fd",
+      "key": "348001160002",
+      "split": "calibration",
+      "C": 16,
+      "family": "linear",
+      "root": 4,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 2,
+      "input_cases_SHA256": "3f754bf89cfa3ccf77852df7a34e7d1557697ff30239b6b9ebcbb503c9b2d878",
+      "graph_SHA256": "8d5422de101ec946b19ff34547a89a23c11958f12d22454ea70212269b736c0f",
+      "prefix_SHA256": "7015b47abe8f6e3dbedb19c536a77eea1090c7205c7bad7fa70913ff4bd954a2",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348001160003.npz",
+      "SHA256": "6aa191f2730cdf821d633c728c064b2c63723e6627a87fc8222cf8a0d82c3aab",
+      "key": "348001160003",
+      "split": "calibration",
+      "C": 16,
+      "family": "tanh",
+      "root": 12,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 2,
+      "input_cases_SHA256": "26f95d36a2e59fb537834261fe825e1b179be0be4c5187d094ad8a34dc545d0c",
+      "graph_SHA256": "89480834cbfb77076bcc035bfedd456de7d2f78917aafaa10172cab12123e80d",
+      "prefix_SHA256": "4e3999d6a4ef79a345fba5dba883996268768f849e4a07137b55c0c8ed8a5919",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348001200000.npz",
+      "SHA256": "e2f4f821119a59606b8821aa75ee9272ace424360b5b2065cb0daa8b5b9d5e6d",
+      "key": "348001200000",
+      "split": "calibration",
+      "C": 20,
+      "family": "linear",
+      "root": 16,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 2,
+      "input_cases_SHA256": "897c87025779ca951def71436e977e7712b3bc54b6782f7470ecdc6570fa0a9c",
+      "graph_SHA256": "471b4c0afe5423324aa4e3a7016054a01dc0d52e258e70dcebe287e0c69cbd98",
+      "prefix_SHA256": "e7b0211b9b53ea2e6a8ea53e423a791e7aa4f3313e2497f16abb16953b7b7c3c",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348001200001.npz",
+      "SHA256": "94b0c4a1e27ef399603eb018bcdaa319804859a619e315d900034b963635dff0",
+      "key": "348001200001",
+      "split": "calibration",
+      "C": 20,
+      "family": "tanh",
+      "root": 1,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 2,
+      "input_cases_SHA256": "beb434acb6edfe1ae56001e90cc418e2e1aaca1ec0ab5ec4c168d7f5255d2fa5",
+      "graph_SHA256": "9dc6ec1be7e4907466c40c031cf62c95ad287bfc937be85504fd9ac11370c29d",
+      "prefix_SHA256": "e59b6be67b7a560d97cbe6ec7cc8fea3b561545eb011408628d26cf1b9556a60",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348001200002.npz",
+      "SHA256": "0d8779a5f83c6cbdf12cb3e8d192f2849f059dae7b8dcbd2ae7117cf845c8918",
+      "key": "348001200002",
+      "split": "calibration",
+      "C": 20,
+      "family": "linear",
+      "root": 10,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 2,
+      "input_cases_SHA256": "6fcd39c9fd6fabf03eb17939663222c45e8193eaf6f1110b8f1f0dd089880e52",
+      "graph_SHA256": "0564cd665c59228be18d43c0f23f8f9c8367ebd851a5139f59924b9544ad918b",
+      "prefix_SHA256": "af6495b32f6dff40d8e6193d3d5b583f7c5944b18eef756e4960ab0ded0cafa2",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348001200003.npz",
+      "SHA256": "94725b50fcf05eead495634e89c150c9874e68eb6fb4efdb8dbd1880d9d7eb19",
+      "key": "348001200003",
+      "split": "calibration",
+      "C": 20,
+      "family": "tanh",
+      "root": 12,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 2,
+      "input_cases_SHA256": "74fbddce731b3154191a00ee2a495f58743b8fc1814afe73f6b88cb3606a5498",
+      "graph_SHA256": "a09c614a6726ecfac92455d8983d8da81338b7f532246486776cf97fb83336e3",
+      "prefix_SHA256": "696ae5addb85ec009f312af726058a62855c215c845bb541f309e8713e99a4c6",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002080000.npz",
+      "SHA256": "9f79051aaedac86c41ca82f9aac26cd39683d551ebbce4273afb68c7fe26160a",
+      "key": "348002080000",
+      "split": "source_validation",
+      "C": 8,
+      "family": "linear",
+      "root": 5,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "2ae594d476d5d98841301fe93eae8620f7e0a2142b3427919c6c4b9f97326b49",
+      "graph_SHA256": "566c01a8667b7f171b35def97968f3145c05f5e74587278558001f30eec39800",
+      "prefix_SHA256": "6284626473c913f794ec632f846bede487fbee3dbceb2c3865ce28b593653f20",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002080001.npz",
+      "SHA256": "88a1e925ddaf01470f82c592fc1206089eb9992edb43a4293a2024dfd442d834",
+      "key": "348002080001",
+      "split": "source_validation",
+      "C": 8,
+      "family": "tanh",
+      "root": 2,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "5c4a3f6c8c74c01d004ac3b999b0eae85e3a69f21b3df7abcda9a3fdb881ed6e",
+      "graph_SHA256": "82d772cfa08b147761cccafb544787ba708c15d1fd2482321192d34763f2fbc3",
+      "prefix_SHA256": "07f17aa5974d48bc7d0cf7636bd7f79ce9e011600a0717f0d1389de5f453f23f",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002080002.npz",
+      "SHA256": "c6b17bf42458290cbf3c421270263826e80be77ce37dc11f7131f7452ef8b9ab",
+      "key": "348002080002",
+      "split": "source_validation",
+      "C": 8,
+      "family": "sin",
+      "root": 5,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "ba669310d13de6a3a86f414d18191d71a85a27fcc35fb55c0fd68ceb146079b7",
+      "graph_SHA256": "c7d513d0a6435847fc4979561240e9c480ab4aee4cb55c2772e48e28dec915c9",
+      "prefix_SHA256": "68b276abe498d0197096e0f17048d75cd9180ff338791753976bfe7da4b7e585",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002080003.npz",
+      "SHA256": "784e4c5009f47998aaf81d0d4a77ff9ccf2da1812568a9a3a55887fa116d9abe",
+      "key": "348002080003",
+      "split": "source_validation",
+      "C": 8,
+      "family": "linear",
+      "root": 0,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "e72fed770fd41c40a9585b093f282954aef2cd083608e13d01a7547b46a1c9aa",
+      "graph_SHA256": "d5a78db5f692f16e76c9c125f3e7627ff35181ea39f19f46842526820ba1eafe",
+      "prefix_SHA256": "e4cb89f81073bbc6c8fb75c8c985d4e740f94e90f73c38561a24533e04e122cb",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002080004.npz",
+      "SHA256": "2e41e13b1e5566e6917982e4cfbbeb204a046217aec52afc7589b562a54e51a2",
+      "key": "348002080004",
+      "split": "source_validation",
+      "C": 8,
+      "family": "tanh",
+      "root": 7,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "fb7b2ec291687256847fc0170761f2af09b6163148602fef3cb9242339ce089d",
+      "graph_SHA256": "d8c2c51d6c4a70108b9c2f790cee4f675c8c3e64bf18fc21c74081968f6cedd7",
+      "prefix_SHA256": "2bc302b96ce1e210a02bccec1d4fb7b693153add106daf301e65bafe7aafb00e",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002080005.npz",
+      "SHA256": "1ce52f36fd25852ea2c9048ab244146695b280ad465213c1b78a00081703d3aa",
+      "key": "348002080005",
+      "split": "source_validation",
+      "C": 8,
+      "family": "sin",
+      "root": 5,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "649c309ce7799b4f9725b415f6dd64c8b64360ea53bbabef98933d91e7f31e74",
+      "graph_SHA256": "85b5c6c718e2c287cb15ed2d0606a9f56b9342447ffe1f09979aa473b95fe655",
+      "prefix_SHA256": "8af6b2d0595862dca6502ba452dd57f2cd8d401a1cd0a718f5a43b407effff1a",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002080006.npz",
+      "SHA256": "97f459aa861745a2ec76e5b2262da761ace94a887cbd765a28de0ad879568457",
+      "key": "348002080006",
+      "split": "source_validation",
+      "C": 8,
+      "family": "linear",
+      "root": 2,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "6e2d0537f9b1cac369f9ac93e51614ddeb881dbf84dcdfdc85023c10e02b304e",
+      "graph_SHA256": "0fe72c6bfcf76940380a7916190934c320063c680cff219334d40558f40c785e",
+      "prefix_SHA256": "63fc0a52326a04eef46f81ab0042323ef1eeaf95096834a972f91dfd746f3f1a",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002080007.npz",
+      "SHA256": "d91ea0bcece5b89c0327fc657550701281d8ffaa4ed5fc5d6798894fe124d74c",
+      "key": "348002080007",
+      "split": "source_validation",
+      "C": 8,
+      "family": "tanh",
+      "root": 1,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "f13e74d53fbff795e350b6046587c1bf8382880e2fc06df0f405d3c4a1966c76",
+      "graph_SHA256": "aeadf94bd180edc3c5835996fb7766985879d5d4ec37f9ac5e12efe8debe5fc4",
+      "prefix_SHA256": "3be7d8ad9b8197a7dc12b44a4c3fa0ab5e39dacc83609a54915b0988715e0340",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002120000.npz",
+      "SHA256": "cf32128614c64326ad0d8a26ea6ce9466032ca66adb91be4a1ab72d2936a9b09",
+      "key": "348002120000",
+      "split": "source_validation",
+      "C": 12,
+      "family": "linear",
+      "root": 0,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "800fbdd7a3320d026933634c33d9268ef346051df7c7809bab302edf4ffcc2aa",
+      "graph_SHA256": "cdb06d87faf43da3b07c6d34f003ec03a250111e25019a2470f5d8e17d185a6a",
+      "prefix_SHA256": "ce17571577cfb848dd1adc8056dfac360aba0a690748883e1ec1cbdc151dd94f",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002120001.npz",
+      "SHA256": "e0ec12ded9b087152cd7a9a11fff075b08a24ee8c54d8dbfe34cd71dabff79e7",
+      "key": "348002120001",
+      "split": "source_validation",
+      "C": 12,
+      "family": "tanh",
+      "root": 1,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "9d709a1091e9e4ebfd63ce54a38595f1e473804b70084b2bde5d6cfb4e7eabaf",
+      "graph_SHA256": "823048d7f1d4a8e26a9f216a90d4beba4c18fbfa0dfdb817facee119291a0371",
+      "prefix_SHA256": "6344c4fbf66af37bb275cb7d406dfcd8a2ef91ab618976722d0eecfe42614c6a",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002120002.npz",
+      "SHA256": "4c5ebb6f1b606c8d89d5d8b011829e332a99b9afbdcb685fd33dbe17fb8171d3",
+      "key": "348002120002",
+      "split": "source_validation",
+      "C": 12,
+      "family": "sin",
+      "root": 9,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "5f783daaba96a44a01aa9ad19bbb3deca13ef4763562edee8942ee0731f4085c",
+      "graph_SHA256": "ed28902e5cbf61fceb5bc3265cfa35d0330dc140ff7507d2f8cf361e6c551476",
+      "prefix_SHA256": "57549625e2da5f8767b91493b6d8436533d6d03294425d376c5c3b5d59cef9bf",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002120003.npz",
+      "SHA256": "f8efa41b3a369d759b309a9aa60f0f7a87558db9d9b142f8d46ea8b92b48daad",
+      "key": "348002120003",
+      "split": "source_validation",
+      "C": 12,
+      "family": "linear",
+      "root": 8,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "ac72c677dfb5cde5a1c5fb0f6f577144f2fabc289ae54884ead74db3a4cc45e5",
+      "graph_SHA256": "6d362594ca8c8f3a30eed905799ad5f2b0154f32fe4fffe5ee5677be87a45a7e",
+      "prefix_SHA256": "03bd3842bc50137920cec041b3890845e06e1a9a063b66ff08f8ca31b467a5a9",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002120004.npz",
+      "SHA256": "44903c57c6c27eaf19a298294ef8ed8e4d9631cd1192cd98031d94c4a0ba4a1c",
+      "key": "348002120004",
+      "split": "source_validation",
+      "C": 12,
+      "family": "tanh",
+      "root": 7,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "67529d688bcc8a4cde727403348aac87752e3a2fef556eab3c30aec0c85cd87e",
+      "graph_SHA256": "ecce0db65f08141ede1f17b8412a0e451c5774374cfb22e26328eab719026172",
+      "prefix_SHA256": "79d1f37d29829d36d0ed7a6de6cb1b7decd1e88d10421c14a4f2029ceee0c9f7",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002120005.npz",
+      "SHA256": "b1f3b88e2308d5cfec7e8cd0d33593a8d7b395297f7217ec35fac1edf2e9bb9e",
+      "key": "348002120005",
+      "split": "source_validation",
+      "C": 12,
+      "family": "sin",
+      "root": 0,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "2ab53fe4394c8d2ba81636930c9ac1fa7f4a0fdad8a521fc3cce75958f3bdc67",
+      "graph_SHA256": "6d82036ca5b313f3dbbd14278048531c1940d3c64c2a2f8e8d079bdd0a349c65",
+      "prefix_SHA256": "bb578d6234ebd9c860bd5e91b2e70f5855b9b439e061e13c5f57a74f82a2c36d",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002120006.npz",
+      "SHA256": "70c700a835f6ab872fe93d60abbee2c46fd2f112372c31f233e4867950067174",
+      "key": "348002120006",
+      "split": "source_validation",
+      "C": 12,
+      "family": "linear",
+      "root": 8,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "d0d2008f3c3f7eb66559f192c0d4196b72557363acb3b16e2832baf6c50a8896",
+      "graph_SHA256": "6762790f1c0b313e3897e4f61026dedbf86ff0c859f45f78b73810d4672bafdb",
+      "prefix_SHA256": "7032cea87d3246bed84a475dcc53cc9c3f1db1cea41c45fe3c240232fa7cc9dc",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002120007.npz",
+      "SHA256": "94cf3fb20bbe330853514d83a8fa9caadc9d5811abde17c4e5f5d44065552484",
+      "key": "348002120007",
+      "split": "source_validation",
+      "C": 12,
+      "family": "tanh",
+      "root": 3,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "209683bcdf611543b418a91de9af8506e62ab0d3a535f6d5056e24f633257773",
+      "graph_SHA256": "ccd720f1602892acd93901356a8c1303b07bdef1de7944bdd15a2b0269ecaf71",
+      "prefix_SHA256": "6e73846c49daccf783f5c29d97d66701f1dec54abcdfb10dc7a72417410a6b14",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002160000.npz",
+      "SHA256": "465e579a8bb9187896371ff9d72d7550d0fe6c8f39ceccfd2092dfa46fd89a44",
+      "key": "348002160000",
+      "split": "source_validation",
+      "C": 16,
+      "family": "linear",
+      "root": 3,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "9714d2c6149168c47c29c0d52ba1c526a6158e5e602be3cfbd032bd3524b936d",
+      "graph_SHA256": "89c7fbcaf84ea54a42e74dd162ca6b3d3895e35e29266fd5116539d678db3fce",
+      "prefix_SHA256": "028e5118bb652e1186be8d645a7bccc2556b469b4b6205dac0a6f1cd2881c7ac",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002160001.npz",
+      "SHA256": "3391d93ee6ed70adeec9edd84a578367482d8fe263915d1f344157d7da84ca60",
+      "key": "348002160001",
+      "split": "source_validation",
+      "C": 16,
+      "family": "tanh",
+      "root": 4,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "268323e4898db2054b08a9b29d44daa9d23b73ac1c6ea9e2ba39133cbbaee845",
+      "graph_SHA256": "ac0dce63e25a8a2a3c71bdaa489cb779002b1e06c457ffadf4cb2f19756ccbcf",
+      "prefix_SHA256": "9236491fce9e1a6dffb0a6e89da8523caef1b6e3231f800b4bde5fc7b76db7e5",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002160002.npz",
+      "SHA256": "261ab10defaba8b98e953e9f67b40fa6768be5a5c1c78297c76793eb36c2a332",
+      "key": "348002160002",
+      "split": "source_validation",
+      "C": 16,
+      "family": "sin",
+      "root": 7,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "c37f223b85f7b0a5dfd6e9a29290f458f080b632ae96d72a89f794304b36485d",
+      "graph_SHA256": "269bdb7de3862a16b1c26ea9abf8fe0affbadb2d91dd72fec7659fe3fcb8f2f5",
+      "prefix_SHA256": "ab37667d63b2be496d28f6590b2b28f133dc7b51e5da6a63fd25a9e49f2d5929",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002160003.npz",
+      "SHA256": "3fafa16f8e45b180b2c0689b1ed6212a43368e93b259eb2aa86921da205278b4",
+      "key": "348002160003",
+      "split": "source_validation",
+      "C": 16,
+      "family": "linear",
+      "root": 3,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "4c80cd00342db113f25e186e5b75c96aee381d06d42ee939bacbe01eff5cad60",
+      "graph_SHA256": "5b5007a1fd4fbfa63d34a55b43d422b34c98c9af2abc885e58d35fd3515d76ab",
+      "prefix_SHA256": "75c762c714c4ef251e0985e2c6a27e94f24d54c02922a4182b9c176cd18e572b",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002160004.npz",
+      "SHA256": "2371d0332ad724fd6dce564f4adbbc64c41fef5e0f1bd202acae114980d63b81",
+      "key": "348002160004",
+      "split": "source_validation",
+      "C": 16,
+      "family": "tanh",
+      "root": 8,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "247ed4b9d09ba4c89adccea86acab8e04c66b7dcd6c9b455c562c6ca7cf5f768",
+      "graph_SHA256": "2a7020747f0e7a7304da66a7aac62bf7e54f524ee82c633483f39e6df9274efc",
+      "prefix_SHA256": "144c2ccd04565b9fc4d479091be461d5edc88e3347a6f10529136d621dfa51da",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002160005.npz",
+      "SHA256": "0d3bfcede10602996eea37058641848e0ec629bdfd1488f003a1cf53f16cdf8f",
+      "key": "348002160005",
+      "split": "source_validation",
+      "C": 16,
+      "family": "sin",
+      "root": 1,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "5fa4f749f48fd7b92d2434782bdf17f11cadd38a5a80239b36437a17f9aff06b",
+      "graph_SHA256": "e4782d7e8d72ec5896bc40dee0b24489cccc0bb7932603028d64fef0732a8398",
+      "prefix_SHA256": "8db5b845b41ca57dd30cc3259541884370b16649c529625d23419b3256c8576d",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002160006.npz",
+      "SHA256": "feaffa289422fa9e1fd0402b546c3f8838d1980a41623c9af40c8434f74fb2a5",
+      "key": "348002160006",
+      "split": "source_validation",
+      "C": 16,
+      "family": "linear",
+      "root": 7,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "a1388d995bf4a25713b70e65ca6758e1e72096437ca116ba8e5a6ce90134ae19",
+      "graph_SHA256": "61f8e7a913c4222683dcfcf7d5edb3584a82ceb09e71b4977def45a9733bc8db",
+      "prefix_SHA256": "050d6813863473af965aa0244680c573f51454ca5bbb3f0cc1fa3bd7c984d313",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002160007.npz",
+      "SHA256": "33a7108e2ad125f79974395702ec87dc9d0bc0766f641a2fb2aba8dadeddea56",
+      "key": "348002160007",
+      "split": "source_validation",
+      "C": 16,
+      "family": "tanh",
+      "root": 12,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "331b1ec55239acf51da793a2eda5e77c015cc85a7caa6be63afb780ed2cb91da",
+      "graph_SHA256": "59157cc52121c9baf9d4eee98bec9c80ee209f84ba82ba31473c5d504d3e6fc4",
+      "prefix_SHA256": "3f7c007ada1a751d736b6bde2f760d156e8e8e4ae7d569e1d6e97c16ea499815",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002200000.npz",
+      "SHA256": "26529c26c435d7c1d621ccd1b37f5272c13a6c6b4a0dee22a663e6fa5c01a156",
+      "key": "348002200000",
+      "split": "source_validation",
+      "C": 20,
+      "family": "linear",
+      "root": 6,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "d51304965a8fef32430c0fbbe7b58e7d204a546f3bb33e4c1d5fe2236c3aa14c",
+      "graph_SHA256": "1d590acad192ae7d1d96b638577b67a81c71637d0215293bdc4095d91f93ccc5",
+      "prefix_SHA256": "ebf249bc68090d8e7dfa7830d744b9acc9c10d74958f2fc7401c3ca980686a2d",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002200001.npz",
+      "SHA256": "ac8165ee0d4517f1d00bf2418266d74729b69cfd3e1d9ed10be4703007b7f607",
+      "key": "348002200001",
+      "split": "source_validation",
+      "C": 20,
+      "family": "tanh",
+      "root": 3,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "58a615e1c19479269122d92c22312a9d6925e8298834b69c7ffd4a0cf7f38169",
+      "graph_SHA256": "6f5c77b5d9f9229e6b64e6c866d0d0bd94cf4dada6c776aa354e88a6b4921555",
+      "prefix_SHA256": "54266cdc6d54b8833d7153305ae4d6556e6be8a4413ced3fab24b7736c095433",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002200002.npz",
+      "SHA256": "a3c9c819aa2f0250fc648f734ac5fc0e8bb525d02c3e52e3612c0360eb2f9514",
+      "key": "348002200002",
+      "split": "source_validation",
+      "C": 20,
+      "family": "sin",
+      "root": 14,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "18a4e9de6aea8d455e166e8a14e415a31a387dead632809bb23542a464449416",
+      "graph_SHA256": "94607d7e521fbd71f465c25b01f9ce51aad7634a886acc38794672ff8a4c9e1d",
+      "prefix_SHA256": "046f0379d11b6507eecfc2da8b725909cd2300d1994c14ea1fbbea03fd7cbf55",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002200003.npz",
+      "SHA256": "4458be0dfa8101a86560ca4dda220edfe7e818b41fa1ac7a209aea403e9918c0",
+      "key": "348002200003",
+      "split": "source_validation",
+      "C": 20,
+      "family": "linear",
+      "root": 15,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "b2040c6a315ffd39be34c1aabab6de98dbec3d8cb438adc176b58b4f1745e606",
+      "graph_SHA256": "62bf2fef4296c7e89a640f8a7f136a8ae9ec23efe0d2abc0ee21e78857a089ee",
+      "prefix_SHA256": "f13678df9e07aafb95053149356954545d640d278e6e7c618a53d60fc6f806b5",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002200004.npz",
+      "SHA256": "89d699a67a73d017bffea964ebc7ef10ff07376438cbd7d348ad8799122adde3",
+      "key": "348002200004",
+      "split": "source_validation",
+      "C": 20,
+      "family": "tanh",
+      "root": 12,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "956c2911a877aa9cf650be7a3be3fca3067b8aee59aeb561148af8b42e9fb077",
+      "graph_SHA256": "bb353522ac4462967dd307c2e23940b2aaed8adf6bb36c891b4b29588db910c3",
+      "prefix_SHA256": "eb9b9950d5510a43e83f05419aff896ee4e87403093c6f4e1ce9b2fa46b42358",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002200005.npz",
+      "SHA256": "ecfa36028b87e3b0a6345ebc8e0080942384423ba943e5d567487298a3cbb974",
+      "key": "348002200005",
+      "split": "source_validation",
+      "C": 20,
+      "family": "sin",
+      "root": 5,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "f4e551e3c4d985f855372e286682673776e5ca098fed9e766d8414f8ce84ab24",
+      "graph_SHA256": "010f56ac629b2f049ae34631a348df08f75812399954f0e387d9822918628caf",
+      "prefix_SHA256": "cf502831197e7ab65f02d47f1f533aadf7fae4ce3b060160080172e980c08b47",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002200006.npz",
+      "SHA256": "048c1a26a31c422ca97f567ea04628fb09f7e9ed5ef9d9bc49bb7139f7a33611",
+      "key": "348002200006",
+      "split": "source_validation",
+      "C": 20,
+      "family": "linear",
+      "root": 1,
+      "prefix_contaminated": false,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "611ac7e04164b121f9d81f813d03350b575a79f300956d6844533b2f4c2becfd",
+      "graph_SHA256": "6e312b418cdfd8b26d48331a292070cc5b306f1e23788d251b3be44048b2aacd",
+      "prefix_SHA256": "f8ebc9eccfd964ad38a81e1d3a1cb5f4fdf31b266f1a1208940e55f087b5e6bf",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    },
+    {
+      "path": "348002200007.npz",
+      "SHA256": "5fed1585210da147783ed3198c9b17c824df597d767257c38f21967cdc0211be",
+      "key": "348002200007",
+      "split": "source_validation",
+      "C": 20,
+      "family": "tanh",
+      "root": 2,
+      "prefix_contaminated": true,
+      "case_kind": [
+        "normal",
+        "normal",
+        "matched_measurement",
+        "matched_measurement",
+        "paired_measurement",
+        "paired_measurement",
+        "physical",
+        "physical"
+      ],
+      "model_views": 8,
+      "input_cases_SHA256": "7b42718592dbfa9feb1a9a669e7e4166871ea85697dee22d9f2b276e06358129",
+      "graph_SHA256": "a0cb9973de0de22cee68bbed4efb7e1627cf0b23b9dfaed66fc8874113916a7c",
+      "prefix_SHA256": "8ebeb51edbd76188f1e8efc9547c7e8764e4248ced7fffd8d02a156726e45d63",
+      "labels_detail": {
+        "effect": null,
+        "anomaly_channel": null,
+        "anomaly_time": null
+      }
+    }
+  ],
+  "parent_source_SHA256": "1efe50fdb5f32fc0501bca05337851a3c92e6ff8bd6fce4969153513185b428b",
+  "materialized_scalar_slots": 9175040,
+  "original_matched_quartet_exact": true,
+  "paired_measurement_physical_root_observations_exact": true,
+  "physical_amplitude_multiplier": 1.5,
+  "simulator_parameters_used_only_in_builder": true,
+  "benchmark_arrays_opened": false
+}

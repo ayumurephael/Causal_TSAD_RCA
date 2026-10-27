@@ -1,0 +1,18 @@
+{
+  "true": {
+    "events": 384,
+    "attempted_fraction": 1.0,
+    "Top1_all_events": 0.5494791666666666,
+    "point_coverage": 0.9775213426159274,
+    "unabstained_consistency_Top1": 0.5546875,
+    "input_SHA256": "87c9c54c341bfd0228ed57f2ad72bc276af92e558de3bdd7c532ad1a8bc98b0f"
+  },
+  "wrong": {
+    "events": 384,
+    "attempted_fraction": 1.0,
+    "Top1_all_events": 0.4947916666666667,
+    "point_coverage": 0.9883856004284274,
+    "unabstained_consistency_Top1": 0.4973958333333333,
+    "input_SHA256": "48e3130089073c68c7351309c0ff52b3ceb52a9601bab86c319c231abe4214b5"
+  }
+}

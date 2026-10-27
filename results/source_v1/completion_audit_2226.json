@@ -1,0 +1,63 @@
+{
+  "status": "complete",
+  "plan_SHA256": "8e158ed56a7c560075a5ec14416f18dcdc8dee721dfd7572c141f7b997b5c4e2",
+  "record_files": 591,
+  "cache_files": 5712,
+  "source_files": 112,
+  "train_runs": 36,
+  "observed_exposure": 396361728,
+  "normal_target_exposure": 181665792,
+  "initial_final_eval_exposure": 594542592,
+  "detector_exact_score_arrays": 0,
+  "detector_compared_score_arrays": 1536,
+  "detector_score_max_difference": 9.031753123167618e-11,
+  "detector_weight_max_difference": 4.6649599836189427e-11,
+  "protected_zero_max_difference": 0.0,
+  "detector_metric_max_differences": {
+    "FPR": 0,
+    "false_alarm_events": 0,
+    "AP": 0,
+    "PR_AUC": 0,
+    "ROC_AUC": 0,
+    "event_recall": 0,
+    "unmatched_alarm_events": 0
+  },
+  "detector_isolation_bitwise_passed": false,
+  "cache_budget": {
+    "causal_input_scalars": 77070336,
+    "factorizations": 9031680,
+    "feature_node_rows": 597295104,
+    "detector_input_scalars": 175013888,
+    "detector_padded_scalars": 175013888,
+    "detector_calls": 7168,
+    "training_exposure": 0
+  },
+  "source_normal_target_not_model_input": true,
+  "target_arrays_opened": false,
+  "optimizer_updates": 0,
+  "new_model_forwards": 0,
+  "basis_parameter_SHA256": "5e45f074b769f444301fd97eb1c35cc2ed3fb46667e4acfafa001301ed26b943",
+  "schedules": {
+    "348": "59c86b1dd9bb7500aa1d3a2c5e67286b9484e08ca77516d66e7ed9692b915d7c",
+    "349": "e7f2b039a59144af20b27eba2010bef0a7f8a9bdde2632d34bbf0ca9dcef6995",
+    "350": "8a253d3d80b93cd2fa25ac22d8f22827d04d0575a4fb25d0e4625b684c14927f"
+  },
+  "trainable_parameters": {
+    "context_nll": 1217,
+    "query_nll": 1217,
+    "query_shuffled_nll": 1217,
+    "query_rank": 1217,
+    "stat_pair": 1794,
+    "stat_temporal": 1794,
+    "stat_typed": 2470,
+    "decompose_learned": 129,
+    "generic_calibrator": 129,
+    "protected": 129,
+    "raw_adapt": 129,
+    "concat_adapt": 129
+  },
+  "seconds": 104.60408997535706,
+  "payload_SHA256": "88fa1563e3a0cd4981b47b97a0737bfafc97b3f5d49646d1b95f6b28987f6e81",
+  "covers_failed_attempt_extra_compute": false,
+  "bitwise_gate_not_waived": "Original exact-equality audit failed and is retained; report deviations separately, never relabel bitwise equality as passed"
+}

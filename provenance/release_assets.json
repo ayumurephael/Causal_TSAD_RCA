@@ -1,0 +1,24 @@
+{
+  "tag": "source-v1",
+  "repository": "ayumurephael/Causal_TSAD_RCA",
+  "assets": [
+    {
+      "name": "source_pool_v1.tar",
+      "bytes": 199260160,
+      "SHA256": "84f15655726d73a588d4eee34d10b82ab21a6eaa9eac64cb2e964372266216e7",
+      "role": "Exact64/16/32 source pool for selected statistics model"
+    },
+    {
+      "name": "basis_parent_source_v1.tar",
+      "bytes": 200529920,
+      "SHA256": "2b173fb014f48750755b15f5934ec4e76eaf05d384fcb2442bb48ce9e12dd9fd",
+      "role": "Canonical source used to construct normal-basis pretraining pool"
+    },
+    {
+      "name": "stat_temporal_scores_v1.zip",
+      "bytes": 350559547,
+      "SHA256": "107ac37ff32f388057c25869621e4ee7ff33b5d62fa38c0ca1066989119fd11f",
+      "role": "Initial and final per-point detection/root arrays for all3 seeds"
+    }
+  ]
+}

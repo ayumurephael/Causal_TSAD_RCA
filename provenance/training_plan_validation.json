@@ -1,0 +1,33 @@
+{
+  "status": "passed_with_initialization_disclosure",
+  "initial_parameter_checks": [
+    {
+      "seed": 348,
+      "actual": "ac2b8f797699785fc7634368a43dd769e9f5140528e98b1de79d7fc028955b2a",
+      "original": "3b3d44e2f30727c142332aece08d39d927aeb2b4b92e4798205205f25c4e4018",
+      "exact": false
+    },
+    {
+      "seed": 349,
+      "actual": "a277ff3c1afbc4f3ab02353ca5df8873f3afdaed1b517aabf53f20a131400376",
+      "original": "b6fe9b0f1357f7e89e750d0cfad59b5724b0e47449cf5ec126daae0d37f2628d",
+      "exact": false
+    },
+    {
+      "seed": 350,
+      "actual": "311377cb1b806ecd8d3ae1cd6e19e60993a5d6c1ba88581642aeb4ed19ed3859",
+      "original": "d173983296a0047dcc61149f3faa0e74edb7cb541f8cea16da46a0ac18a4e764",
+      "exact": false
+    }
+  ],
+  "seeds": [
+    348,
+    349,
+    350
+  ],
+  "steps_per_seed": 384,
+  "observed_per_seed": 11010048,
+  "normal_targets_per_seed": 5505024,
+  "trainable_parameters": 1794,
+  "optimizer_steps_executed": 0
+}

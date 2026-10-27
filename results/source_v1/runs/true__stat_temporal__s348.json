@@ -1,0 +1,27 @@
+{
+  "status": "complete",
+  "task": {
+    "id": "true__stat_temporal__s348",
+    "profile": "true",
+    "arm": "stat_temporal",
+    "seed": 348,
+    "code": "/home2/xuhaijie/TimeRCD_reproduction/causal_tsad/improvement3_causal_suite_v1_r2/code_2898c46e8d70519be9874094cb16797ba4ba89f6"
+  },
+  "updates": 384,
+  "observed_exposure": 11010048,
+  "normal_target_exposure": 5505024,
+  "trainable_parameters": 1794,
+  "initial_SHA256": "3b3d44e2f30727c142332aece08d39d927aeb2b4b92e4798205205f25c4e4018",
+  "final_SHA256": "eae6a47c2b676869a1a8e059bbe8fa42e4ff6d17abddadeb218b86452a74b764",
+  "checkpoint_SHA256": "b13fcbcc4e7f1d97bcc97cbb31eee67accdcf88ac6994e0a86050be26e11953b",
+  "schedule_SHA256": "59c86b1dd9bb7500aa1d3a2c5e67286b9484e08ca77516d66e7ed9692b915d7c",
+  "evaluation_exposure": 16515072,
+  "seconds": 125.52307343482971,
+  "peak_cuda_bytes": 256551424,
+  "basis_updated": false,
+  "TimeRCD_updated": false,
+  "benchmark_arrays_opened": false,
+  "TimeRCD_RCA": false,
+  "code": "/home2/xuhaijie/TimeRCD_reproduction/causal_tsad/improvement3_causal_suite_v1_r2/code_13b2294fc21910df3a1d0439f5bdb5c1c8b57fb5",
+  "new_basis_forwards": 0
+}

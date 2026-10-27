@@ -1,0 +1,33 @@
+{
+  "source_repository": "https://github.com/ayumurephael/CausalTSAD",
+  "source_branch": "proposal/i15-segment-signature-supervision-v1",
+  "scientific_local_commit": "2898c46e8d70519be9874094cb16797ba4ba89f6",
+  "scientific_GitHub_commit": "a53c12e3efd20b56aca211f89c5bc7e6a890a3e8",
+  "upstream_files_exact_SHA256": {
+    "tools/prepare_syndrome_source.py": "b7ecf14a440bdf5e5dd3f98b79fa2e4a3b5a2f1bc63865b9a577d731b549ebfc",
+    "causal_tsad/io.py": "302a98b7633c17f2bc094d6907221edd12cb7bd2951a8a69bcd15b17ff275b1c",
+    "tools/train_causal_contrast.py": "2893583e29248ba34df1b90b5baa74e82c44832927a407e868722fd2d052cdd3",
+    "proposals/raw_context.py": "f892ac3205aaf638530b667ece54f66c776bfd85dc72bac0003e86993e8809df",
+    "proposals/matched_pairs.py": "6f9c1596722738e549197456b03f464a268ecd05102afcbcb525b51115723205",
+    "proposals/causal_contrast.py": "3dec468cd4a0d6f51401c77784e16149aa92771d926d22a8a82d3b4708872280",
+    "proposals/paired_fault_modes.py": "702272fc049c3b3b23971c87f0b01a372e8aadf0ca43794f458de2eceecc296b",
+    "tools/train_meta_basis.py": "cae3b0ea5558841a57dae210049f28995a8a8372cc507b958f8317f4815542b8",
+    "proposals/causal_meta_basis.py": "5d44a96fa0dda2c4891f7ef62b846287003ec7f87b2b032ee1f2c74ab96732f2",
+    "proposals/improvement3/metrics.py": "6689d88f310f65007623f7c0086000224c4eea9550993a2e509921ae50963711",
+    "proposals/improvement3/source.py": "57df84f3f4e500fc5f4807273afa5920fd489cc38e20c2b5f31a7c856e8426ef",
+    "proposals/improvement3/models.py": "87bcf3ae6d8f307ea5ef60471db9bbc746fe652c8dde353ad15506ce6a5d7ab3",
+    "proposals/improvement3/evidence.py": "567f49902f02d916aaa453cb6df43d6d66330bce5273db4005ffa5b35f6d7252",
+    "proposals/improvement3/components.py": "2c8ef88308156746a261f0a74c02e584371662e39b8eb5ada0a974786fbc9157",
+    "proposals/context_crossfit.py": "d4cbed39cede93286c1bae3eba8c1a72246812d6811b11024f307ecfbebd6927",
+    "reference/run_improvement3.py": "9c10db0ff736961cf048912778dd6657724f6b19db97752c86b7adf2928d8fc1",
+    "reference/IMPROVEMENT3_PROTOCOL.md": "82306f973763bb0d6a5ce653c51cb3efcc5b9631cc9cbc258648a3d79f87d2bc"
+  },
+  "source_analysis_SHA256": "0fde99f62cb8d9f08c43ad321d3b4be53d5ea11ceeea9cae6706f1fb7121e9ff",
+  "basis_checkpoint_SHA256": "d809200a339c917ddc7af20d06fc4de834fdf0f03b1e749df8e53e80acc15842",
+  "publication_policy": "Experimental branches stay in CausalTSAD. Only explicit user-approved promotions enter this repository. source-v1 is source-validated, not a target/SOTA claim.",
+  "actual_run_record_code_commit": "13b2294fc21910df3a1d0439f5bdb5c1c8b57fb5",
+  "run_vs_published_snapshot_diff_only": [
+    "README.md",
+    "experiments/improvement3_branch.json"
+  ]
+}
